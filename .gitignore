@@ -2,7 +2,4 @@ _site
 .sass-cache
 .jekyll-metadata
 .DS_Store
-.ruby-gemset
-.ruby-version
-Makefile
 .jekyll-cache
